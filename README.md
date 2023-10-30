@@ -1,8 +1,9 @@
 ### Hi there 👋, меня зовут Алексей Зотов.
 
-Крошечный (micro):  
-[https://www.codewars.com/users/zotov_l88/badges/micro](https://www.codewars.com/users/zotov_l88/badges/micro)
-
+- 🔭 Я ищу работу java-backend разработчиком в Москве
+- 🌱 В данный момент я изучаю шаблоны проектирования
+- мое резюме на <a href="https://hh.ru/resume/11aa9595ff0c1e4ca90039ed1f7131366e5744" target="_blank">hh.ru</a>
+- все мои <a href="https://github.com/zotov88?tab=repositories" target="_blank">проекты</a> 
 
 <!--
 **zotov88/zotov88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
