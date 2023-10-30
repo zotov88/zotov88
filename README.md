@@ -5,8 +5,11 @@
 - 📜 мое резюме на <a href="https://hh.ru/resume/11aa9595ff0c1e4ca90039ed1f7131366e5744" target="_blank">hh.ru</a>
 - 📁 все мои <a href="https://github.com/zotov88?tab=repositories" target="_blank">проекты</a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zotov88)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zotov88)](https://github.com/ryo-ma/github-profile-trophy)
+[![codewars](https://www.codewars.com/users/zotov_l88/badges/small)](https://www.codewars.com/users/zotov_l88)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zotov_l88&theme=dark)](https://github.com/zotov_l88/leetcode-stats)
+
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
