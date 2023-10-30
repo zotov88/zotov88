@@ -1,6 +1,8 @@
 ### Hi there 👋, меня зовут Алексей Зотов.
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+Крошечный (micro):  
+[![codewars](https://www.codewars.com/users/username/badges/micro)]([https://www.codewars.com/users/username](https://www.codewars.com/users/zotov_l88))
+
 
 <!--
 **zotov88/zotov88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
