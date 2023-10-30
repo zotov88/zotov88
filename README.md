@@ -1,7 +1,7 @@
 ### Hi there 👋, меня зовут Алексей Зотов.
 
 Крошечный (micro):  
-[![codewars](https://www.codewars.com/users/username/badges/micro)]([https://www.codewars.com/users/username](https://www.codewars.com/users/zotov_l88))
+[https://www.codewars.com/users/zotov_l88/badges/micro](https://www.codewars.com/users/zotov_l88/badges/micro)
 
 
 <!--
