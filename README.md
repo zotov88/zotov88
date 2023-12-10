@@ -2,7 +2,7 @@
 
 - 🔭 Я ищу работу java-backend разработчиком в Москве
 - 🌱 В данный момент работаю над <a href="https://github.com/zotov88/rzd-scan-seats" target="_blank">проектом</a>
-- 📜 мое резюме на <a href="https://hh.ru/resume/11aa9595ff0c1e4ca90039ed1f7131366e5744" target="_blank">hh.ru</a>
+- 📜 мое резюме на <a href="https://hh.ru/resume/5eb3319bff0c92acd80039ed1f446e31547872" target="_blank">hh.ru</a>
 - 📁 все мои <a href="https://github.com/zotov88?tab=repositories" target="_blank">проекты</a>
 
 [![codewars](https://www.codewars.com/users/zotov_l88/badges/small)](https://www.codewars.com/users/zotov_l88)
