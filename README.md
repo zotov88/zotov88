@@ -11,6 +11,8 @@
 
 [![codewars](https://www.codewars.com/users/zotov_l88/badges/small)](https://www.codewars.com/users/zotov_l88)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/zotov_l88)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zotov_l88&theme=dark)](https://github.com/zotov_l88/leetcode-stats)
 
 
