@@ -7,13 +7,13 @@
 
 [//]: # (- 📜 мое резюме на <a href="https://hh.ru/resume/5eb3319bff0c92acd80039ed1f446e31547872" target="_blank">hh.ru</a>)
 
-[//]: # (- 📁 все мои <a href="https://github.com/zotov88?tab=repositories" target="_blank">проекты</a>)
+   📁 все мои <a href="https://github.com/zotov88?tab=repositories" target="_blank">проекты</a>
+   
 
 [![codewars](https://www.codewars.com/users/zotov_l88/badges/small)](https://www.codewars.com/users/zotov_l88)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/zotov_l88)]
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zotov_l88&theme=dark)](https://github.com/zotov_l88/leetcode-stats)
+[//]: # ([![Leetcode Stats]&#40;https://leetcard.jacoblin.cool/zotov_l88&#41;])
+[//]: # ([![KnlnKS's LeetCode stats]&#40;https://leetcode-stats-six.vercel.app/api?username=zotov_l88&theme=dark&#41;]&#40;https://github.com/zotov_l88/leetcode-stats&#41;)
 
 
 
